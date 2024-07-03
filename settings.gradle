@@ -1,6 +1,5 @@
 include ':app'//, ':app-design'
 include ':refresh-layout', ':refresh-header', ':refresh-footer'
-
 include ':refresh-drawable-paint'
 include ':refresh-drawable-path'
 include ':refresh-layout-kernel'
